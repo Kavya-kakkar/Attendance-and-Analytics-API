@@ -32,3 +32,4 @@ Thumbs.db
 # Submission requirements: No Dockerfile
 Dockerfile
 docker-compose*.yml
+DATA_MODEL.md
